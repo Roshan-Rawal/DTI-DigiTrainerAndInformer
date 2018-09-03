@@ -6,4 +6,4 @@ DTI which stands for Digi Trainer and Informer is an online web portal for unorg
 business information, can get online training, where they should start their small business in new city these all kind of information
 can be get in this portal. 
 
-I used html,css and js for fronted and PHP in backend.
+I used html,css and js in fronted and PHP in backend.
